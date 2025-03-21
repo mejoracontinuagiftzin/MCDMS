@@ -908,7 +908,7 @@ a {
   align-items: center;
   border-radius: 100vw;
   margin-top: 1rem;
-  background-color: #edefeb;
+  background-color: #000000;
   box-shadow: 0 30px 60px 0 rgba(27, 31, 10, 0.08);
 }
 @media (max-width: 992px) {
@@ -937,7 +937,7 @@ a {
   border-radius: 1.5rem;
   transition: .3s all !important;
   min-width: auto;
-  background: #edefeb;
+  background: #000000;
 }
 .cid-uDPWH1Wt0G .nav-item:focus,
 .cid-uDPWH1Wt0G .nav-link:focus {
@@ -1099,7 +1099,7 @@ a {
   padding: 0.667em 1.667em;
 }
 .cid-uDPWH1Wt0G .navbar.navbar-expand-lg .dropdown .dropdown-menu {
-  background: #edefeb;
+  background: #000000;
 }
 .cid-uDPWH1Wt0G .navbar.navbar-expand-lg .dropdown .dropdown-menu .dropdown-submenu {
   margin: 0;
@@ -1263,7 +1263,7 @@ a {
     width: 100%;
     padding: 1rem;
     border-radius: 1.5rem;
-    background: #edefeb;
+    background: #000000;
     backdrop-filter: blur(8px);
   }
   .cid-uDPWH1Wt0G .navbar-nav .nav-item .nav-link::after {
@@ -1353,7 +1353,7 @@ a {
   background: #edefeb;
 }
 .cid-urRnOJHcRQ .mbr-section-title {
-  color: #ffffff;
+  color: #d70081;
 }
 .cid-urRnOJHcRQ .mbr-text,
 .cid-urRnOJHcRQ .mbr-section-btn {
@@ -1668,7 +1668,7 @@ a {
   align-items: center;
   border-radius: 100vw;
   margin-top: 1rem;
-  background-color: #edefeb;
+  background-color: #000000;
   box-shadow: 0 30px 60px 0 rgba(27, 31, 10, 0.08);
 }
 @media (max-width: 992px) {
@@ -1697,7 +1697,7 @@ a {
   border-radius: 1.5rem;
   transition: .3s all !important;
   min-width: auto;
-  background: #edefeb;
+  background: #000000;
 }
 .cid-uDPWExE8F7 .nav-item:focus,
 .cid-uDPWExE8F7 .nav-link:focus {
@@ -1859,7 +1859,7 @@ a {
   padding: 0.667em 1.667em;
 }
 .cid-uDPWExE8F7 .navbar.navbar-expand-lg .dropdown .dropdown-menu {
-  background: #edefeb;
+  background: #000000;
 }
 .cid-uDPWExE8F7 .navbar.navbar-expand-lg .dropdown .dropdown-menu .dropdown-submenu {
   margin: 0;
@@ -2023,7 +2023,7 @@ a {
     width: 100%;
     padding: 1rem;
     border-radius: 1.5rem;
-    background: #edefeb;
+    background: #000000;
     backdrop-filter: blur(8px);
   }
   .cid-uDPWExE8F7 .navbar-nav .nav-item .nav-link::after {
